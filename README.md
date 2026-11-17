@@ -50,7 +50,7 @@ ds-drift (training vs live) → retrain → ds-predict
 Requirements: [uv](https://docs.astral.sh/uv/), Python 3.11+, and Chrome or Edge for PNG export (HTML is always written).
 
 ```bash
-git clone <this-repo> ds-skiller && cd ds-skiller
+git clone https://github.com/mehmetbugrakara/ds-skiller.git && cd ds-skiller
 uv sync
 ```
 
